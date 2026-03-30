@@ -144,3 +144,5 @@ Client → ALB → App Server (ECS/EC2) → RDS
 | [**최윤호**](https://github.com/yunhoch0i)| 점수화 · 저장 · 알림 · 대시보드 (Score Calculator · DynamoDB · SNS) |
 
 ### 시스템 아키텍처
+
+아키텍처 다이어그램(헬스체크 파이프라인 · 대상 앱 스택)과 엔드포인트 구성은 **[ARCHITECTURE.md](ARCHITECTURE.md)** 에서 확인할 수 있습니다.
